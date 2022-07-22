@@ -4,6 +4,10 @@
 # mikeplot
 
 <!-- badges: start -->
+
+[![CRAN
+status](https://www.r-pkg.org/badges/version/mikeplot)](https://CRAN.R-project.org/package=mikeplot)
+[![R-CMD-check](https://github.com/mikemahoney218/mikeplot/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/mikemahoney218/mikeplot/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mikeplot is to …
